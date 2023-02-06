@@ -49,7 +49,10 @@ public:
         
         
         
-        
+        /*step 1: find the element with a[i]>a[i-1];
+step 2: if non found then return a sort array.
+step 3: find the just greater element than step 1 element.
+step 4: swap step 3 and step 1 elements and reverse/sort the element before the step 1 index.*/
         
     }
 };
